@@ -23,6 +23,8 @@ OpenWeatherMap API → Python → Bronze → Silver → Gold → SQL View → Po
 - **Quick Insights:** Hottest, Coolest and Most Humid city, Earliest Sunrise, Latest Sunset, Last Update
 - **Visuals:** Temperature by City, Humidity by City, Weather Conditions, Temperature Category, Temperature vs Humidity, Wind Speed, Comfort Score gauge, City Map, Details table
 - **Slicers:** City, Region, WeatherMain
+ <img width="1600" height="878" alt="image" src="https://github.com/user-attachments/assets/b2b3761c-92d5-47f7-a531-0f832aca0554" />
+
 
 ## 🛠️ Tech Stack
 Python (requests, pandas, NumPy, SQLAlchemy, PyODBC) · SQL Server · Power BI (DAX) · OpenWeatherMap API
